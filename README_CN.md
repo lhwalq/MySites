@@ -6,7 +6,7 @@
 
 ### Sprunki Retake
 
-- 网站: [sprunkiretake.club](https://sprunkiretake.club?utm_source=github&target=_blank)
+- 网站: [sprunkiretake.club](https://sprunkiretake.club?utm_source=github)
 - 描述: 基于 Incredibox 的创新恐怖模组，被称为 Incredibox Sprunki Retake 恐怖模组。这款独特的游戏将经典的音乐混音体验转变为一场令人毛骨悚然的旅程，包含诡异的音效、幽灵般的视觉效果和隐藏的神秘元素。玩家可以使用重新设计的角色、氛围音效来创作令人毛骨悚然的作品，并通过独特的声音组合解锁特殊的恐怖动画。
 
 ### Onet Puzzle
