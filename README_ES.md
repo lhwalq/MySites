@@ -4,6 +4,16 @@
 
 ## 🎮 Juegos
 
+### Sprunki Abgerny
+
+- Sitio web: [sprunkiabgerny.com](https://sprunkiabgerny.com?utm_source=github)
+- Descripción: Una plataforma innovadora de creación musical con personajes temáticos de objetos y efectos de sonido dinámicos. Crea composiciones musicales únicas a través de una interfaz intuitiva mientras descubres sorpresas ocultas y animaciones especiales.
+
+### Sprunki Mustard
+
+- Sitio web: [sprunkimustard.club](https://sprunkimustard.club?utm_source=github)
+- Descripción: Un juego de música en línea interactivo que combina el beatboxing con la producción musical creativa. Mezcla y superpone sonidos utilizando personajes beatboxers únicos, con efectos en tiempo real y una interfaz basada en el navegador.
+
 ### Sprunki Retake
 
 - Sitio web: [sprunkiretake.club](https://sprunkiretake.club?utm_source=github)

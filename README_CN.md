@@ -4,6 +4,16 @@
 
 ## 🎮 游戏
 
+### Sprunki Abgerny
+
+- 网站: [sprunkiabgerny.com](https://sprunkiabgerny.com?utm_source=github)
+- 描述: 一个创新的音乐创作平台，特色是以物体为主题的角色和动态音效。通过直观的界面创作独特的音乐作品，同时发现隐藏的惊喜和特殊动画。
+
+### Sprunki Mustard
+
+- 网站: [sprunkimustard.club](https://sprunkimustard.club?utm_source=github)
+- 描述: 一个互动的在线音乐游戏，将节拍口技与创意音乐制作相结合。使用独特的节拍口技角色混合和叠加声音，具有实时效果和基于浏览器的界面。
+
 ### Sprunki Retake
 
 - 网站: [sprunkiretake.club](https://sprunkiretake.club?utm_source=github)

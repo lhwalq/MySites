@@ -4,6 +4,16 @@
 
 ## 🎮 ゲーム
 
+### Sprunki Abgerny
+
+- ウェブサイト: [sprunkiabgerny.com](https://sprunkiabgerny.com?utm_source=github)
+- 説明: オブジェクトをテーマにしたキャラクターと動的な音響効果を特徴とする革新的な音楽制作プラットフォーム。直感的なインターフェースを通じてユニークな音楽作品を作成し、隠された驚きや特別なアニメーションを発見。
+
+### Sprunki Mustard
+
+- ウェブサイト: [sprunkimustard.club](https://sprunkimustard.club?utm_source=github)
+- 説明: ビートボックスとクリエイティブな音楽制作を組み合わせたインタラクティブなオンライン音楽ゲーム。ユニークなビートボクサーキャラクターを使用して音をミックスし、リアルタイムエフェクトとブラウザベースのインターフェースを備えています。
+
 ### Sprunki Retake
 
 - ウェブサイト: [sprunkiretake.club](https://sprunkiretake.club?utm_source=github)
