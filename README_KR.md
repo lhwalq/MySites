@@ -4,6 +4,11 @@
 
 ## 🎮 게임
 
+### Sprunki Music
+
+- 웹사이트: [sprunkimusic.org](https://sprunkimusic.org?utm_source=github)
+- 설명: 모든 Sprunki 게임을 한곳에 모은 종합 게임 플랫폼입니다. Sprunki Abgerny, Sprunki Mustard, Sprunki Retake 등을 포함한 Sprunki 음악 창작 게임 시리즈의 완전한 컬렉션을 경험해보세요. 이 통합된 게임 허브에서 전체 Sprunki 세계를 발견하고, 플레이하고, 즐겨보세요.
+
 ### Sprunki Abgerny
 
 - 웹사이트: [sprunkiabgerny.com](https://sprunkiabgerny.com?utm_source=github)

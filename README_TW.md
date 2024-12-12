@@ -4,6 +4,11 @@
 
 ## 🎮 遊戲
 
+### Sprunki Music
+
+- 網站：[sprunkimusic.org](https://sprunkimusic.org?utm_source=github)
+- 描述：一個綜合性的遊戲平台，匯集了所有 Sprunki 遊戲。在這個統一的遊戲中心，您可以體驗完整的 Sprunki 音樂創作遊戲系列，包括 Sprunki Abgerny、Sprunki Mustard、Sprunki Retake 等。探索、遊玩並享受整個 Sprunki 宇宙。
+
 ### Sprunki Abgerny
 
 - 網站: [sprunkiabgerny.com](https://sprunkiabgerny.com?utm_source=github)

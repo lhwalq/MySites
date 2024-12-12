@@ -4,6 +4,11 @@
 
 ## 🎮 Juegos
 
+### Sprunki Music
+
+- Sitio web: [sprunkimusic.org](https://sprunkimusic.org?utm_source=github)
+- Descripción: Una plataforma integral de juegos que reúne todos los juegos de Sprunki en un solo lugar. Experimenta la colección completa de juegos de creación musical Sprunki, incluyendo Sprunki Abgerny, Sprunki Mustard, Sprunki Retake y más. Descubre, juega y disfruta de todo el universo Sprunki en este centro de juegos unificado.
+
 ### Sprunki Abgerny
 
 - Sitio web: [sprunkiabgerny.com](https://sprunkiabgerny.com?utm_source=github)
