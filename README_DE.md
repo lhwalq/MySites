@@ -4,6 +4,11 @@
 
 ## 🎮 Spiele
 
+### 24Fun Puzzle
+
+- Webseite: [24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
+- Beschreibung: Eine umfassende Online-Puzzle-Spieleplattform mit einer vielfältigen Sammlung von Gehirnjogging-Spielen, mathematischen Rätseln und Logikspielen. Diese von dem engagierten 24Fun-Entwicklerteam erstellte Plattform verbindet anspruchsvolle kognitive Übungen mit fesselnder Unterhaltung und bietet plattformübergreifende Kompatibilität, regelmäßige Updates und eine benutzerfreundliche Oberfläche. Erleben Sie eine breite Palette von Rätseln, die entwickelt wurden, um geistige Beweglichkeit, Problemlösungsfähigkeiten und kritisches Denken zu verbessern, während Sie nahtloses Gameplay und Fortschrittsverfolgung genießen.
+
 ### Sprunki Music
 
 - Website: [sprunkimusic.org](https://sprunkimusic.org?utm_source=github)

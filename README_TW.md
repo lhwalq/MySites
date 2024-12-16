@@ -4,6 +4,11 @@
 
 ## 🎮 遊戲
 
+### 24Fun Puzzle
+
+- 網站：[24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
+- 描述：一個全面的線上益智遊戲平台，提供豐富多樣的腦筋急轉彎、數學謎題和邏輯遊戲。由充滿熱情的 24Fun 開發團隊打造，該平台將具有挑戰性的認知訓練與趣味娛樂相結合，提供跨平台相容性、定期更新和使用者友善的介面。體驗各種旨在提升思維敏捷度、解決問題能力和批判性思維的益智遊戲，同時享受流暢的遊戲體驗和進度追蹤。
+
 ### Sprunki Music
 
 - 網站：[sprunkimusic.org](https://sprunkimusic.org?utm_source=github)
