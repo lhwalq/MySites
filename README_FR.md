@@ -1,8 +1,8 @@
 # Informations sur le site
 
-## Mon GitBook (https://lynn-3.gitbook.io/lynn)
+## [Mon GitBook](https://lynn-3.gitbook.io/lynn)
 
-## Mon Notion (https://lynn139.notion.site/MySite-15fb0b5cfa458016b389c76be0453e57)
+## [Mon Notion](https://lynn139.notion.site/MySite-15fb0b5cfa458016b389c76be0453e57)
 
 [English](./README.md) | [简体中文](./README_CN.md) | [繁體中文](./README_TW.md) | [日本語](./README_JP.md) | [Deutsch](./README_DE.md) | [Français](./README_FR.md) | [Español](./README_ES.md) | [한국어](./README_KR.md) | [Português](./README_PT.md)
 
