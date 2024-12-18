@@ -13,6 +13,11 @@
 - 웹사이트: [24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
 - 설명: 다양한 두뇌 테스트, 수학 퍼즐, 논리 게임을 제공하는 종합 온라인 퍼즐 게임 플랫폼입니다. 열정적인 24Fun 개발팀이 제작한 이 플랫폼은 도전적인 인지 훈련과 흥미로운 엔터테인먼트를 결합하여 크로스 플랫폼 호환성, 정기적인 업데이트, 사용자 친화적인 인터페이스를 제공합니다. 원활한 게임플레이와 진행 상황 추적을 즐기면서 정신적 민첩성, 문제 해결 능력, 비판적 사고력을 향상시키도록 설계된 다양한 퍼즐을 경험해보세요.
 
+### Sprunki Ketchup
+
+- 웹사이트: [sprunkiketchup.com](https://sprunkiketchup.com?utm_source=github)
+- 설명: 케첩을 테마로 한 독특한 비주얼과 사운드를 특징으로 하는 Incredibox의 팬 제작 모드입니다. 케첩에서 영감을 받은 캐릭터들을 사용하여 비트, 보컬, 사운드 이펙트를 레이어링하여 독특한 음악 작품을 만들어보세요. Incredibox의 핵심 드래그 앤 드롭 기능을 유지하면서 케첩 테마의 즐거운 요소를 추가했습니다.
+
 ### Sprunki Music
 
 - 웹사이트: [sprunkimusic.org](https://sprunkimusic.org?utm_source=github)

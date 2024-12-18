@@ -13,6 +13,11 @@
 - Sitio web: [24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
 - Descripción: Una plataforma integral de juegos de rompecabezas en línea que ofrece una colección diversa de acertijos, puzzles matemáticos y juegos de lógica. Creada por el apasionado equipo de desarrollo 24Fun, esta plataforma combina ejercicios cognitivos desafiantes con entretenimiento atractivo, ofreciendo compatibilidad multiplataforma, actualizaciones regulares y una interfaz fácil de usar. Experimente una amplia gama de rompecabezas diseñados para mejorar la agilidad mental, las habilidades de resolución de problemas y el pensamiento crítico mientras disfruta de una jugabilidad fluida y seguimiento del progreso.
 
+### Sprunki Ketchup
+
+- Sitio web: [sprunkiketchup.com](https://sprunkiketchup.com?utm_source=github)
+- Descripción: Un mod creado por fans de Incredibox que presenta visuales y sonidos peculiares con temática de ketchup. Crea composiciones musicales únicas superponiendo ritmos, voces y efectos de sonido utilizando personajes inspirados en el ketchup. El juego mantiene la funcionalidad básica de arrastrar y soltar de Incredibox mientras añade un delicioso toque temático de ketchup.
+
 ### Sprunki Music
 
 - Sitio web: [sprunkimusic.org](https://sprunkimusic.org?utm_source=github)
