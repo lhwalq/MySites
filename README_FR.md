@@ -13,6 +13,16 @@
 - Site Web : [24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
 - Description : Une plateforme complète de jeux de puzzle en ligne proposant une collection variée de casse-têtes, de puzzles mathématiques et de jeux de logique. Créée par l'équipe passionnée de développement 24Fun, cette plateforme combine des exercices cognitifs stimulants avec un divertissement captivant, offrant une compatibilité multiplateforme, des mises à jour régulières et une interface conviviale. Découvrez une large gamme de puzzles conçus pour améliorer l'agilité mentale, les compétences de résolution de problèmes et la pensée critique tout en profitant d'un gameplay fluide et d'un suivi des progrès.
 
+### Sprunki Definitive Phase
+
+- Site web: [sprunkidefinitivephase.com](https://sprunkidefinitivephase.com?utm_source=github)
+- Description: Un jeu de création musicale basé sur le rythme qui s'appuie sur la série Sprunki. Les joueurs peuvent créer et mixer de la musique en utilisant un système innovant basé sur les phases, offrant de nouvelles façons de composer et d'interagir avec les éléments musicaux.
+
+### Sprunki Megalovania
+
+- Site web: [sprunkimegalovania.com](https://sprunkimegalovania.com?utm_source=github)
+- Description: Un ajout à la série Sprunki inspiré d'Undertale, mettant en vedette le thème emblématique de Megalovania. Ce jeu combine les mécaniques familières de mixage musical avec des éléments du populaire jeu Undertale, créant une expérience unique de crossover.
+
 ### Sprunki Ketchup
 
 - Site Web: [sprunkiketchup.com](https://sprunkiketchup.com?utm_source=github)

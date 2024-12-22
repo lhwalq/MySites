@@ -13,6 +13,16 @@
 - 网站：[24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
 - 描述：一个全面的在线益智游戏平台，提供丰富多样的脑筋急转弯、数学谜题和逻辑游戏。由充满热情的 24Fun 开发团队打造，该平台将具有挑战性的认知训练与趣味娱乐相结合，提供跨平台兼容性、定期更新和用户友好的界面。体验各种旨在提升思维敏捷度、解决问题能力和批判性思维的益智游戏，同时享受流畅的游戏体验和进度追踪。
 
+### Sprunki Definitive Phase
+
+- 网站: [sprunkidefinitivephase.com](https://sprunkidefinitivephase.com?utm_source=github)
+- 描述: 一款基于节奏的音乐创作游戏，是 Sprunki 系列的延伸。玩家可以使用创新的相位系统创作和混音音乐，提供了全新的音乐创作和互动方式。
+
+### Sprunki Megalovania
+
+- 网站: [sprunkimegalovania.com](https://sprunkimegalovania.com?utm_source=github)
+- 描述: 这是 Sprunki 系列中受 Undertale 启发的作品，featuring 标志性的 Megalovania 主题。该游戏将熟悉的音乐混音机制与流行游戏 Undertale 的元素相结合，创造出独特的跨界体验。
+
 ### Sprunki Ketchup
 
 - 网站: [sprunkiketchup.com](https://sprunkiketchup.com?utm_source=github)

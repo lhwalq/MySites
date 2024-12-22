@@ -13,6 +13,16 @@
 - ウェブサイト：[24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
 - 説明：多様な脳トレ、数学パズル、論理ゲームを提供する総合的なオンラインパズルゲームプラットフォームです。情熱的な 24Fun 開発チームによって作られたこのプラットフォームは、やりがいのある認知エクササイズと魅力的なエンターテインメントを組み合わせ、クロスプラットフォーム互換性、定期的なアップデート、ユーザーフレンドリーなインターフェースを提供します。思考の俊敏性、問題解決能力、批判的思考力を向上させるように設計された幅広いパズルを体験しながら、シームレスなゲームプレイと進捗状況の追跡をお楽しみください。
 
+### Sprunki Definitive Phase
+
+- ウェブサイト: [sprunkidefinitivephase.com](https://sprunkidefinitivephase.com?utm_source=github)
+- 説明: Sprunkir シリーズの新作として開発されたリズムベースの音楽創作ゲームです。革新的なフェーズシステムを使用して音楽を作成・ミックスでき、音楽との新しい関わり方を提供します。
+
+### Sprunki Megalovania
+
+- ウェブサイト: [sprunkimegalovania.com](https://sprunkimegalovania.com?utm_source=github)
+- 説明: Undertale にインスパイアされた、象徴的な Megalovania をフィーチャーした Sprunkir シリーズの新作です。おなじみの音楽ミキシング機能と Undertale の要素を組み合わせた、ユニークなクロスオーバー体験を提供します。
+
 ### Sprunki Ketchup
 
 - ウェブサイト: [sprunkiketchup.com](https://sprunkiketchup.com?utm_source=github)

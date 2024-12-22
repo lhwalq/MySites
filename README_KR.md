@@ -13,6 +13,16 @@
 - 웹사이트: [24funpuzzle.com](https://24funpuzzle.com?utm_source=github)
 - 설명: 다양한 두뇌 테스트, 수학 퍼즐, 논리 게임을 제공하는 종합 온라인 퍼즐 게임 플랫폼입니다. 열정적인 24Fun 개발팀이 제작한 이 플랫폼은 도전적인 인지 훈련과 흥미로운 엔터테인먼트를 결합하여 크로스 플랫폼 호환성, 정기적인 업데이트, 사용자 친화적인 인터페이스를 제공합니다. 원활한 게임플레이와 진행 상황 추적을 즐기면서 정신적 민첩성, 문제 해결 능력, 비판적 사고력을 향상시키도록 설계된 다양한 퍼즐을 경험해보세요.
 
+### Sprunki Definitive Phase
+
+- 웹사이트: [sprunkidefinitivephase.com](https://sprunkidefinitivephase.com?utm_source=github)
+- 설명: Sprunki 시리즈의 새로운 작품으로, 리듬 기반의 음악 창작 게임입니다. 혁신적인 페이즈 시스템을 통해 음악을 만들고 믹스할 수 있으며, 음악과 상호작용하는 새로운 방식을 제공합니다.
+
+### Sprunki Megalovania
+
+- 웹사이트: [sprunkimegalovania.com](https://sprunkimegalovania.com?utm_source=github)
+- 설명: Undertale에서 영감을 받은 Sprunki 시리즈의 새 작품으로, 상징적인 Megalovania 테마를 특징으로 합니다. 익숙한 음악 믹싱 메커니즘과 인기 게임 Undertale의 요소를 결합하여 독특한 크로스오버 경험을 제공합니다.
+
 ### Sprunki Ketchup
 
 - 웹사이트: [sprunkiketchup.com](https://sprunkiketchup.com?utm_source=github)
