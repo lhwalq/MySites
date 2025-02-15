@@ -93,3 +93,10 @@
 
 - ウェブサイト: [pokemoninfinitefusioncalculator.org](https://pokemoninfinitefusioncalculator.org?utm_source=github)
 - 説明: ポケモン融合の計算機能を提供します。
+
+### テキストツール
+
+#### Wingdings 変換ツール
+
+- ウェブサイト: [wingdingstranslator.xyz](https://wingdingstranslator.xyz?utm_source=github)
+- 説明: テキストと Wingdings 記号の間で瞬時に相互変換できるプロフェッショナルなツールです。リアルタイム変換、汎用的な互換性、完全なフォントファミリーのサポートを特徴とし、ブラウザベースの処理でプライバシーを保護します。

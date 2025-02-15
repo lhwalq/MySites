@@ -93,3 +93,10 @@
 
 - 網站: [pokemoninfinitefusioncalculator.org](https://pokemoninfinitefusioncalculator.org?utm_source=github)
 - 描述: 提供寶可夢融合計算功能。
+
+### 文本工具
+
+#### Wingdings 符號轉換器
+
+- 網站: [wingdingstranslator.xyz](https://wingdingstranslator.xyz?utm_source=github)
+- 描述: 專業的 Wingdings 符號轉換工具，可以在文本和 Wingdings 符號之間即時互相轉換。具有實時轉換、通用兼容性和完整字體系列支持等特點，同時通過瀏覽器端處理保證隱私安全。

@@ -93,3 +93,10 @@
 
 - Sitio web: [pokemoninfinitefusioncalculator.org](https://pokemoninfinitefusioncalculator.org?utm_source=github)
 - Descripción: Proporciona funcionalidad de cálculo para fusiones Pokémon.
+
+### Herramientas de texto
+
+#### Traductor de Wingdings
+
+- Sitio web: [wingdingstranslator.xyz](https://wingdingstranslator.xyz?utm_source=github)
+- Descripción: Un traductor profesional de Wingdings que convierte instantáneamente entre texto y símbolos Wingdings en ambas direcciones. Ofrece conversión en tiempo real, compatibilidad universal y soporte completo de familias de fuentes, manteniendo la privacidad mediante procesamiento en el navegador.

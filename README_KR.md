@@ -93,3 +93,10 @@
 
 - 웹사이트: [pokemoninfinitefusioncalculator.org](https://pokemoninfinitefusioncalculator.org?utm_source=github)
 - 설명: 포켓몬 퓨전 계산 기능을 제공합니다.
+
+### 텍스트 도구
+
+#### Wingdings 변환기
+
+- 웹사이트: [wingdingstranslator.xyz](https://wingdingstranslator.xyz?utm_source=github)
+- 설명: 텍스트와 Wingdings 기호 사이의 즉각적인 양방향 변환을 제공하는 전문 변환 도구입니다. 실시간 변환, 범용 호환성, 완전한 글꼴 패밀리 지원을 특징으로 하며, 브라우저 기반 처리로 개인정보를 보호합니다.
